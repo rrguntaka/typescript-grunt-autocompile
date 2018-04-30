@@ -1,2 +1,2 @@
 # typescript-grunt-autocompile
-Demonstrate automatically compiling typescript files with Grunt
+Demonstrate automatic compilation of typescript files with Grunt
